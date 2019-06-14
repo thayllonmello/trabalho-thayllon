@@ -1,0 +1,124 @@
+.icon-ytb{
+    height: 20px;
+}
+.padding-right{
+    padding-right: 15px;
+}
+.img-center{
+    max-width: 768px;
+    max-width: 1000px;
+    width: 100%;
+}
+.descrition{
+    padding: 7px;
+}
+.padding-auto{
+    padding: 5px;
+    padding-left: 5px;
+}
+.leituras{
+    font-size: 14px;
+{}
+
+@media screen and (min-width:600px){
+
+    .descrition{
+        max-width: 768px;
+        max-width: 1000px;
+    }
+    .auto{
+        max-width: 768px;
+        max-width: 1000px;
+    }
+    .icons-4{
+        padding: 5px;
+        font-size: 25px;
+        font-size: 23px;
+    }
+    .canal{
+        max-width: 768px;
+        max-width: 1000px;
+    }
+    .img-canal{
+        width: 55px;
+        height: 53px;
+        padding: 7px;
+    }
+    footer{
+        max-width: 768px;
+        max-width: 1000px;
+        display:flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+ {
+    }
+    .img-01, .img-02, .img-03, .img-above, .img-einerd, .img-hydra{
+        max-width: 242px;
+        max-height: 137px;
+
+        max-height: 134px;
+        border: solid 1px #000000;
+    }
+
+}  
+ a {
+    .img-center{
+        width: 768px;
+        height: 432px;
+        border: solid 1px #000000;
+    }
+    .videos{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+
+        position: fixed;
+        z-index: 3;
+    }
+    .leituras{
+        display: flex;}
+    .img-01, .img-02, .img-03, .img-above, .img-einerd, .img-hydra{
+        max-width: 222px;
+        max-height: 160px;
+        border: solid 1px #000000;
+    }
+
+}
+
+@media screen and (min-width:1440px){
+
+    .einerd{
+        display: flex;
+    }
+    section{
+        display: flex;
+        flex-direction: column;
+    }
+    .img-center{
+        width: 924px;
+        height: 520px;
+        border: solid 1px #000000;
+    }
+    .videos{
+        display: flex;
+        flex-direction: column;
+        padding-left: 85px;
+
+    }
+    .leituras{
+        display: flex;
+        flex-direction: column;
+        font-size: 18px;
+    }
+    .img-01, .img-02, .img-03, .img-above, .img-einerd, .img-hydra{
+        max-width: 329px;
+        max-height: 230px;
+        border: solid 1px #000000;
+    }
+
+.flex-between flex-align-items{
+max-width: 242px;
+ max-height: 137px;
+ max-height: 134px;
+border: solid 1px #000000;
+}
